@@ -1,0 +1,17 @@
+ESTE PROYECTO IMPLEMENTA LA PRUEBA DE EXPLORADOR DEMARTE
+
+SE IMPLEMENTÓ USANDO COMO IDE DE DESARROLLO A NETBEANS 7.2
+
+LENGUAJE DE IMPLEMTACIÓN: JAVA
+
+CASO DE PRUEBA
+
+5 5
+1 2 N
+IAIAIAIAA
+3 3 E
+AADAADADDA
+
+ESTE CASO SE ENCUENTRA EN UN ARCHIVO UBICADO EN LA RAÍZ DEL PROYECTO LLAMADO navegacion.txt
+
+El proyecto cuenta con una interfaz gráfica sencilla en la cual se solicita ingresar la ruta del archivo. Esta ruta debe ser absoluta.
