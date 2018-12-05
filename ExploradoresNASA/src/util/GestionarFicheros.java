@@ -21,6 +21,7 @@ public class GestionarFicheros {
     /**
      * Este método permite leer un fichero y teronará una lista 
      * donde cada posicion representa una linea de texto del fichero
+     * AGREGANDO UNOS COMENTARIOS PARA REVISAR SI PUEDO HACER UN COMMIT DESDE BBTA
      * @param rutaArchivo String ruta del fichero a leer
      * @return List<String> Lineas de texto del fichero
      * @throws Exception En caso de que ocurra una excepción al leer se lanzará

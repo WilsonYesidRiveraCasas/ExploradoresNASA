@@ -10,7 +10,7 @@
  */
 package vista;
 
-import NASA.FacadeNavegacion;
+import NASA.FacadeNavegacion; 
 
 /**
  *
